@@ -1,0 +1,6 @@
+{
+  "name": "Be7ery Fiber Academy",
+  "description": "المنصة التعليمية الشاملة للألياف الضوئية وابتكارات FTTH للخبراء والمبتدئين - برعاية #be7ery و The FTTH Wizard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
